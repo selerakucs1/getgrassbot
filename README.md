@@ -1,9 +1,17 @@
 # getgrassbot
-```> register = https://app.getgrass.io/register/?referralCode=1Hng9F6I92trrNE```
 ```
-> install python
+bot
+grass
+getgrass
+botgrass
+grassbot
+earn free with proxy
 ```
 
+
+```
+register = https://app.getgrass.io/register/?referralCode=1Hng9F6I92trrNE
+```
 ```
 git clone https://github.com/selerakucs1/getgrassbot.git
 cd getgrassbot
