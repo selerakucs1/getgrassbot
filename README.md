@@ -1,12 +1,13 @@
 # getgrassbot
-
-
-```pip install -r requirements.txt```
-
+> install python
+> git clone
 
 ```
-ganti isi user2 dengan id kamu
+pip install -r requirements.txt
 ```
+```ganti isi user2 dengan id kamu```
 
-start
-```python main_a.py```
+> start
+```
+python main_a.py
+```
