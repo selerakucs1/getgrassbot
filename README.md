@@ -1,13 +1,19 @@
 # getgrassbot
-> install python
-> git clone
+# python
+
+```
+git clone https://github.com/selerakucs1/getgrassbot.git
+```
 
 ```
 pip install -r requirements.txt
 ```
-```ganti isi user2 dengan id kamu```
 
-> start
+```ganti isi users2.txt dengan id kamu```
+```
+nano users2.txt
+```
+> start langsung
 ```
 python main_a.py
 ```
